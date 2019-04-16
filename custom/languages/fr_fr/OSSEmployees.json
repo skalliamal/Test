@@ -1,0 +1,11 @@
+{
+    "php": {
+<<<<<<< HEAD
+        "Statut freelancer": "Type de fonction",
+        "Type": "Type de contrat"
+=======
+        "Type": "Type de contrat  ",
+        "Statut freelancer": "Type de fonction"
+>>>>>>> a50e604aaf4489b4a5e424b6ec16be6a04bccf06
+    }
+}
